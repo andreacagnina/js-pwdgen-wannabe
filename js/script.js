@@ -2,7 +2,7 @@ let first_name = prompt('Quale è il tuo nome?');
 let last_name = prompt('Quale è il tuo cognome?');
 let color = prompt('Quale è il tuo colore preferito?');
 
-let password_gen = `${first_name}${last_name}${color}23;`
+let password_gen = `${first_name}${last_name}${color}23`;
 
 document.getElementById('password').innerHTML = `Tieni al sicuro la tua nuova password: <span class="fw-bold"> ${password_gen}</span>`;
 
