@@ -1,0 +1,17 @@
+iframe {
+    cursor: auto;
+    animation-name: opacity;
+    animation-duration: 10s;
+
+
+}
+
+@keyframes opacity {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
