@@ -1,7 +1,8 @@
-iframe {
+iframe,
+#password {
     cursor: auto;
     animation-name: opacity;
-    animation-duration: 20s;
+    animation-duration: 10s;
 
 
 
