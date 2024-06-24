@@ -13,6 +13,6 @@ Dichiarare la variabile alla quale si attribuisce il colore preferito dell'utent
 Assegno la variabile ad un prompt
 Chiedere all'utente il suo colore preferito
 Dichiarare la variabile alla quale si attribuisce un numero prestabilito
-Creare una stringa a cui attribuire le variabili dichiarate prima
-Inserisci la stringa creata in testo all'interno di un p con id.
-Mostra all'utente il testo creato  quando clicca sul pulsante.
+Creare una stringa a cui concatenare le variabili dichiarate prima con il numero 23 sottoforma di testo.
+Inserire il testo creato all'interno di un div con id "password".
+Mostrare all'utente il testo creato quando egli esegue un click sul pulsante.
